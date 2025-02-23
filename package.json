@@ -1,0 +1,21 @@
+{
+    "name": "thomyorke",
+    "version": "1.0.0",
+    "description": "nice dream",
+    "main": "index.js",
+    "type": "module",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "init": "^0.1.2",
+        "jsonfile": "^6.1.0",
+        "moment": "^2.30.1",
+        "npm": "^11.1.0",
+        "random": "^4.1.0",
+        "simple-git": "^3.27.0"
+    }
+}
